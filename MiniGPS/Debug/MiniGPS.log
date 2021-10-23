@@ -1,0 +1,4 @@
+﻿  MiniGPS.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\galbi\source\repos\Proiect1\Proiect1\Proiect1.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Proiect1.vcxproj -> C:\Users\galbi\source\repos\Proiect1\Debug\Proiect1.exe
