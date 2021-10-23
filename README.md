@@ -6,4 +6,4 @@ displaying 3 different routes between the source and destination. Furhtermore, i
 version of a GPS in which there are no real time data on the current coordinates of the driver
 
 
-![](Capture.PNG)
+<img src ="Capture.PNG" width="100">
