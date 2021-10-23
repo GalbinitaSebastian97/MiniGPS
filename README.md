@@ -6,4 +6,13 @@ displaying 3 different routes between the source and destination. Furhtermore, i
 version of a GPS in which there are no real time data on the current coordinates of the driver
 
 
-<img src ="Capture.PNG" width="600">
+<img src ="MiniGPS.PNG" width="600" class="center">
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
