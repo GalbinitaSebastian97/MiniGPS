@@ -9,4 +9,5 @@ version of a GPS in which there are no real time data on the current coordinates
   <img src ="MiniGPS.PNG" width="600" class="center">
 </p>
 
+For more information about the application check out my license project : ![here](https://github.com/GalbinitaSebastian97/Licenta-2017-2020)
 
