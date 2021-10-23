@@ -5,14 +5,8 @@ The Mini-GPS application is based on the Dijkstra's algorithm. The project illus
 displaying 3 different routes between the source and destination. Furhtermore, it produces an offline 
 version of a GPS in which there are no real time data on the current coordinates of the driver
 
+<p align="center">
+  <img src ="MiniGPS.PNG" width="600" class="center">
+</p>
 
-<img src ="MiniGPS.PNG" width="600" class="center">
 
-
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
